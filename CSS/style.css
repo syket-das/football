@@ -18,11 +18,11 @@
 
 .tNone a{
     text-decoration: none;
-    color: #fff;
+  
      padding: 8px 20px;
     font-size: 0.80rem;
-    background: #E02C6D;
-    color: #fff;
+    /* background: #E02C6D; */
+    color: blue;
     border: oldlace;
     cursor: pointer;
     border-radius: 3px;
@@ -45,7 +45,7 @@
 
 .btnBlack:hover{
     background: #111;
-    /* color: #fff; */
+    color: #fff;
 }
 
 
