@@ -16,6 +16,27 @@
     
 }
 
+.tNone a{
+    text-decoration: none;
+    color: #fff;
+     padding: 8px 20px;
+    font-size: 0.80rem;
+    background: #E02C6D;
+    color: #fff;
+    border: oldlace;
+    cursor: pointer;
+    border-radius: 3px;
+    
+}
+
+.tNone a:hover{
+    background: ghostwhite;
+    /* border: 1px dashed #fff; */
+    color: #111;
+}
+
+
+
 .btn:hover{
     background: ghostwhite;
     /* border: 1px dashed #fff; */
@@ -24,8 +45,10 @@
 
 .btnBlack:hover{
     background: #111;
-    color: #fff;
+    /* color: #fff; */
 }
+
+
 
 
 
